@@ -3,9 +3,7 @@
 <h3 align="center">A passionate MERN stack-developer from Bangladesh</h3>
 <img align="right" alt="coding__giff" width="400" src="https://i.pinimg.com/originals/37/75/11/37751162cba905651c93d8e9674e35a3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devtabibur&label=Profile%20views&color=0e75b6&style=flat" alt="devtabibur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtabibur" alt="devtabibur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/devtabibur" target="blank"><img src="https://img.shields.io/twitter/follow/devtabibur?logo=twitter&style=for-the-badge" alt="devtabibur" /></a> </p>
 
