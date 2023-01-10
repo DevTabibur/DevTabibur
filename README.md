@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Dev Tabibur Rahman</h1>
-<h3 align="center">A passionate MERN stack-developer from Bangladesh</h3>
+<h3 align="center">A passionate Full stack-developer from Bangladesh</h3>
 <img align="right" alt="coding__giff" width="400" src="https://i.pinimg.com/originals/37/75/11/37751162cba905651c93d8e9674e35a3.gif">
 
 
